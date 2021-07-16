@@ -1,0 +1,7 @@
+hola=hello
+love=amor
+code=codigo
+programacion=programation
+sistema=system
+mundo=world
+
