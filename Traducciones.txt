@@ -1,6 +1,6 @@
 hola=hello
-love=amor
-code=codigo
+amor=love
+codigo=code
 programacion=programation
 sistema=system
 mundo=world
